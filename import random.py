@@ -1,3 +1,5 @@
+#PROGRAMA PARA ADIVINAR UN NUMERO GENERADO POR IA
+# REALIZADO POR BRANDON OYOLA CALDERON Y SANTIAGO CAICEDO SERRATO
 import random
 
 def adivina_el_numero():
@@ -47,4 +49,5 @@ def adivina_el_numero():
     print(f"Te tomó **{intentos}** intentos.")
 
 # Llamar a la función para iniciar el juego
+
 adivina_el_numero()
